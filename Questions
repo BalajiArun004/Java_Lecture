@@ -1,0 +1,8 @@
+1. Create Student UserDetails Map Object with Class 
+2. Create a queue that accepts n inputs 
+    inputs are number  
+    process the palindrome over a number (use peek)
+    remove the number from queue 
+3. Exceute expression using LinkedList
+4.Write a program to print the collection of hashMap in sorted order
+5.Write a program to get n inputs and sort the arrayList without using sort method

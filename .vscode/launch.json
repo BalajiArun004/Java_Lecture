@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch PriorityQueueDemo",
+      "request": "launch",
+      "mainClass": "PriorityQueueDemo",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch List",
+      "request": "launch",
+      "mainClass": "List",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch GenericClass",
+      "request": "launch",
+      "mainClass": "GenericClass",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch GenericMethod",
+      "request": "launch",
+      "mainClass": "GenericMethod",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringOperations",
+      "request": "launch",
+      "mainClass": "StringOperations",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringConstructor",
+      "request": "launch",
+      "mainClass": "StringConstructor",
+      "projectName": "Java_1db45f22"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}

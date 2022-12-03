@@ -1,0 +1,63 @@
+charAt(indexNumber): it returns the char at the given index
+
+length(): returns the total number of characters as int
+		length is ALWAYS one unit above the maximum index number
+		maxIndex: length()-1;
+
+concat(Value): Concatenation, concats the given value to the 
+String and returns a new value
+
+toLowerCase(): converts to lowercase and returns a new String
+
+toUpperCase(): converts to uppercase and returns a new String
+
+trim(): removes the unused spaces , and returns new String
+
+substring(beginning index, ending index): 
+creates substring of the string value from the beginning index 
+till the ending                   
+
+substring(beginning index): 
+creates substring of the string value from the beginning index 
+till the end of the string
+
+replace(old Value, new Value): new value 
+will be replaced with ALL the given old value, and returns new string 
+
+indexOf(Value): 
+returns the index number of the first occurred character as an int             
+
+indexOf(Value): returns the index number of first 
+occurred character,as int
+
+lastIndexOf(Value): return the index number of 
+last occurred character, as int
+
+isEmpty(): identifies if the string is empty
+                true ==> string is empty,
+                false ==> String is not empty
+
+equals(str): checks if two string' visible texts are equal or not
+                    cares about the case sensitivity
+                        A == a  ==> false
+
+equalsIgnoreCase(str):  checks if two string' visible texts 
+are equal or not
+                 does not care case sensitivity
+                    A == a ==> true
+ 
+ contains(str): checks if the str is contained in the string. 
+ returns boolean
+                    if str is conatined ==> true
+                    otherwise ==> false
+ 
+ startsWith(str): checks if the string starts with the given str. 
+ returns boolean
+                if starts with str ==> true
+                otherwise ==> false
+
+endsWith(str): checks if the string ended with the given str. 
+returns boolean
+                 if ended with str ==> true
+                    otherwise ==> false
+3
